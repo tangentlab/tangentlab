@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tangentlab
+- 👋 Hi
 - 👀 I’m interested in ...
 UI and DOTS and music and 3D
 
