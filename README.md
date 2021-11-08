@@ -1,6 +1,6 @@
 - 👋 Hi
 - 👀 I’m interested in ...
-UI and DOTS and music and 3D
+VR, music and 3D
 
 - 🌱 I’m currently learning ...
 UI concepts for VR
