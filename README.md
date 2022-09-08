@@ -1,4 +1,3 @@
-- 👋 Hi
 - 👀 I’m interested in ...
 VR, music and 3D
 
