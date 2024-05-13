@@ -5,7 +5,7 @@ VR, music and 3D
 UI concepts for VR
 
 - 📫 How to reach me ...
-[guidewire.squarespace.com](guidewire.squarespace.com)
+[guidewire.squarespace.com](http://guidewire.squarespace.com)
 
 <!---
 tangentlab/tangentlab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
